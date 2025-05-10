@@ -34,3 +34,8 @@ h1 {
     
 
 }
+
+.button:hover {
+background-color: #545a41;
+color: #bcca8b;
+}
