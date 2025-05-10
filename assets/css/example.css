@@ -15,3 +15,22 @@ body {
     flex-direction: column;
     gap:10%
 }
+
+h1 {
+    font-size: 100px;
+    color: #c2d091;
+}
+
+.button {
+    background-color: #c2d091;
+    padding: 10px;
+    min-width: 150px;
+    text-align: center;
+    font-size: 1.2rem;
+    border-radius: 16px;
+    text-decoration: none;
+    transition: 0.5s;
+    color: #1f2118;
+    
+
+}
