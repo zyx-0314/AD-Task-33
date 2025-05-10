@@ -41,3 +41,8 @@ h2{
     color: #588288;
     border-bottom: 2px solid #a7e2ee;
 }
+
+strong {
+    font-size: 2.5rem;
+    color: #607c82;
+}
