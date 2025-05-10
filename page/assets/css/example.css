@@ -31,15 +31,15 @@ span {
     font-size: 1.5em;
 }
 h1 {
-    color: #91a2d0;
+    color: #c2d091;
     font-size: 50px;
     padding: 50px;
 }
 h2{
     font-size: 30px;
     padding: 45px;
-    color: #588288;
-    border-bottom: 2px solid #a7e2ee;
+    color: #7e8858;
+    border-bottom: 2px solid #ddeea7;
 }
 
 strong {
