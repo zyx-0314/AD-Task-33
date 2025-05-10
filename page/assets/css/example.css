@@ -79,3 +79,8 @@ strong {
     
 
 }
+
+.button:hover {
+background-color: #41585a;
+color: #8bc4ca;
+}
