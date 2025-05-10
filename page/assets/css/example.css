@@ -65,7 +65,7 @@ strong {
 }
 
 .button {
-    background-color: #91c5d0;
+    background-color: #c2d091;
     padding: 10px;
     min-width: 150px;
     text-align: center;
@@ -73,13 +73,13 @@ strong {
     border-radius: 16px;
     text-decoration: none;
     transition: 0.5s;
-    color: #1f2118;
+    color: #1f2118;;
     width: 30%;
     
 
 }
 
 .button:hover {
-background-color: #41585a;
-color: #8bc4ca;
+background-color: #545a41;
+color: #bcca8b;
 }
