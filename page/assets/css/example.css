@@ -24,3 +24,20 @@ img {
     
     
 }
+
+span {
+    color:#41515a ;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+h1 {
+    color: #91a2d0;
+    font-size: 50px;
+    padding: 50px;
+}
+h2{
+    font-size: 30px;
+    padding: 45px;
+    color: #588288;
+    border-bottom: 2px solid #a7e2ee;
+}
