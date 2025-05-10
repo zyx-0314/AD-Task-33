@@ -24,6 +24,19 @@
         }
     }
     echo "</div>";
+
+             echo "<h2>Diesel Cars</h2>";
+        echo "<div class='container'>";    
+    for ($i = 0; $i < 6; $i++) {
+        if ($car_fuel[$i] == 'Diesel') {
+        echo "<div class ='box'>";
+        echo "<img src = '$car_image[$i]'>";
+        echo "<p><strong>$car_brands[$i]</strong><br><br><span>$car_names[$i] ($car_years[$i])</span><br><br>$car_fuel[$i]</p>";
+        echo "</div>";
+        }
+       
+    }
+    echo "</div>";
     
     
     
