@@ -26,12 +26,12 @@ img {
 }
 
 span {
-    color:#41515a ;
+    color:#545a41 ;
     font-weight: bold;
     font-size: 1.5em;
 }
 h1 {
-    color: #c2d091;
+    color:#545a41;
     font-size: 50px;
     padding: 50px;
 }
@@ -44,7 +44,7 @@ h2{
 
 strong {
     font-size: 2.5rem;
-    color: #607c82;
+    color: #7a8260;
 }
 
 .box {
