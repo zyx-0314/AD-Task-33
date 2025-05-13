@@ -101,20 +101,15 @@ Carl's Garage showcases a categorized lineup of cars—Gasoline, Diesel, and Ele
 AD-Task-1
 └─ assets
 |   └─ css
-|   |   └─ name.css
+|   |   └─ example.css
 |   └─ img
-|   |   └─ name.jpeg/.jpg/.webp/.png
-|   └─ js
-|       └─ name.js
-└─ components
-|   └─ name.component.php
+|   |   └─ home-wallpaper.png
 └─ pages
-|  └─ pageName
-|     └─ assets
+|   └─ assets
 |     |  └─ css
-|     |  |  └─ name.css
+|     |  |  └─ example.css
 |     |  └─ img
-|     |  |  └─ name.jpeg/.jpg/.webp/.png
+|     |  |  └─ 
 |     |  └─ js
 |     |     └─ name.js
 |     └─ index.php
