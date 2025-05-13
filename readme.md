@@ -98,7 +98,7 @@ Carl's Garage showcases a categorized lineup of cars—Gasoline, Diesel, and Ele
 10. File Structure to follow below.
 
 ```
-AD-ProjectName
+AD-Task-1
 └─ assets
 |   └─ css
 |   |   └─ name.css
