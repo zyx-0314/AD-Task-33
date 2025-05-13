@@ -109,12 +109,13 @@ AD-Task-1
 |     |  └─ css
 |     |  |  └─ example.css
 |     |  └─ img
-|     |  |  └─ 
-|     |  └─ js
-|     |     └─ name.js
+|     |  |  └─ civic.png
+|     |  |  └─ cybertruck.png
+|     |  |  └─ f250.png
+|     |  |  └─ landcruiser.png
+|     |  |  └─ mustang.png
+|     |  |  └─ taycan.png
 |     └─ index.php
-└─ utils
-|   └─ Name.utils.php
 └─ index.php
 └─ readme.md
 ```
